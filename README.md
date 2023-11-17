@@ -8,3 +8,4 @@
 Chuksemmaa/Chuksemmaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![1700229790087](https://github.com/Chuksemmaa/Chuksemmaa/assets/151218319/e63aed30-11d5-4b5c-98c2-094bed861f8a)
